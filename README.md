@@ -3,7 +3,7 @@ Simple .ehi decrypt script Made With Love By ShayCormac ❤️
 
 How to Use ⬇️
 
-• apt update && apt upgrade
+• apt update && apt upgrade /n
 • apt install nodejs
 • termux-setup-storage : allow the storage permission
 • cd/sdcard
